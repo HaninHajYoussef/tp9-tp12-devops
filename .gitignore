@@ -1,0 +1,5 @@
+cosign.key
+*.key
+.env
+node_modules/
+reports/
